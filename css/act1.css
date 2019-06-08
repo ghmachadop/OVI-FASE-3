@@ -68,17 +68,16 @@ article{
        position: absolute;
        border-radius: 1.0em;
 		}
-.inicio{
+.crucigrama1{
 
 
         margin-left: 50%;
-
+        position: absolute;
 		}
-.image1{
+.crucigrama2{
         
-		margin-left: 60%;
-      	width: 1em;
-      	height: 1%;
+		margin-left: 1%;
+    position: absolute;      
 
 
 		}

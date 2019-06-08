@@ -61,10 +61,10 @@ article{
        border:2px solid #F0B429;
        padding:2em;
        width: 70%;
-       height: 55%;
+       height: 60%;
        min-height: 140px;
        margin-left: 25%;
-       margin-top: 6%;
+       margin-top: 6.5%;
        position: absolute;
        border-radius: 1.0em;
 		}
@@ -98,7 +98,7 @@ aside   {
        border-radius: 1.0em;
        background:  #005883;
        padding: 4em;
-       height: 58%;
+       height: 64%;
        position: absolute;
        
        		}

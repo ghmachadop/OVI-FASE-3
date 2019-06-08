@@ -61,10 +61,10 @@ article{
        border:2px solid #F0B429;
        padding:2em;
        width: 70%;
-       height: 36%;
+       height: 41%;
        min-height: 140px;
        margin-left: 25%;
-       margin-top: 6%;
+       margin-top: 6.6%;
        position: absolute;
        border-radius: 1.0em;
 		}
@@ -99,14 +99,14 @@ aside   {
        border-radius: 1.0em;
        background:  #005883;
        padding: 4em;
-       height: 40%;
+       height: 45%;
         position: absolute;
        
        		}
 footer {
 
 	border:2px solid #660000;
-	margin-top: 28%;
+	margin-top: 29%;
 	padding: 4em;
 	width: 91%;
 	position: absolute;
